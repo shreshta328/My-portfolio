@@ -3,3 +3,5 @@ My personal portfolio website built using HTML, CSS, and JavaScript to showcase 
 ## 🌐 Live Website
 
 Visit my portfolio: [Click here](https://shreshta328.github.io/My-portfolio/)
+---
+Built with ❤️ using HTML, CSS and JavaScript.
